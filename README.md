@@ -5,8 +5,8 @@ Git sert à gérer les versions d’un projet, généralement du code. Il permet
 commandes de base : 
 
 git init : initier un projet 
-git clone 
-git status
-git add .
-git commit -m 
-git push origin main 
+git clone copie un projet
+git status : etat actuel des fichiers 
+git add . ajoute les fichiers modifiés
+git commit -m  "updatex" enregistre les fichiers avec un titre donc updatex 
+git push origin main envoit le commit vers le depot selectionne
