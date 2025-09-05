@@ -7,5 +7,6 @@ commandes de base :
 git init : initier un projet 
 git clone 
 git status
+git add .
 git commit -m 
 git push origin main 
